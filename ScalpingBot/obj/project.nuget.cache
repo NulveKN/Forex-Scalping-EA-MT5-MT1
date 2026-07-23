@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4VyfZCe/LH4=",
+  "success": true,
+  "projectFilePath": "D:\\GithubNew\\20\\Scalpingbot\\1\\ScalpingBot\\ScalpingScript.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LW\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\LW\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\LW\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\LW\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.29\\microsoft.netcore.app.host.win-x64.8.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
